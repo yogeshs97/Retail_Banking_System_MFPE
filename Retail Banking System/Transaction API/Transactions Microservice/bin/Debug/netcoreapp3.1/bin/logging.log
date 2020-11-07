@@ -1,0 +1,158 @@
+INFO  03:44:39 Application started. Press Ctrl+C to shut down.
+INFO  03:44:39 Application started. Press Ctrl+C to shut down.
+INFO  03:44:39 Hosting environment: Development
+INFO  03:44:39 Hosting environment: Development
+INFO  03:44:39 Content root path: C:\Users\Anuj-PC\Downloads\MFPE\MFPE\Transction Api\Transactions Microservice
+INFO  03:44:39 Content root path: C:\Users\Anuj-PC\Downloads\MFPE\MFPE\Transction Api\Transactions Microservice
+INFO  03:45:22 GetTransactions Api called
+INFO  03:45:22 Valid Customer Id
+INFO  03:46:23 getAccount Api called
+ERROR 03:46:27 Exception occured while getting Account details for account id: 1
+ERROR 03:46:28 One or more errors occurred. (No connection could be made because the target machine actively refused it.): In Trasaction Controller
+INFO  03:51:59 Application started. Press Ctrl+C to shut down.
+INFO  03:51:59 Application started. Press Ctrl+C to shut down.
+INFO  03:51:59 Hosting environment: Development
+INFO  03:51:59 Hosting environment: Development
+INFO  03:51:59 Content root path: C:\Users\Anuj-PC\Downloads\MFPE\MFPE\Transction Api\Transactions Microservice
+INFO  03:51:59 Content root path: C:\Users\Anuj-PC\Downloads\MFPE\MFPE\Transction Api\Transactions Microservice
+INFO  03:52:14 GetTransactions Api called
+INFO  03:52:14 Valid Customer Id
+ERROR 03:52:14 No Record Found for this123
+INFO  09:26:39 Application started. Press Ctrl+C to shut down.
+INFO  09:26:39 Application started. Press Ctrl+C to shut down.
+INFO  09:26:39 Hosting environment: Development
+INFO  09:26:39 Hosting environment: Development
+INFO  09:26:39 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice
+INFO  09:26:39 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice
+INFO  09:28:36 Transaction history returned for Customer Id: 1
+ERROR 09:30:20 No Record Found for this Customer Id: 3
+ERROR 09:30:20 An unhandled exception has occurred while executing the request.
+System.ArgumentException: No Record Found for this Customer Id: 3
+   at Transactions_Microservice.Controllers.TransactionController.getTransactions(Int32 CustomerId) in D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice\Controllers\TransactionController.cs:line 56
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:30:20 An unhandled exception has occurred while executing the request.
+System.ArgumentException: No Record Found for this Customer Id: 3
+   at Transactions_Microservice.Controllers.TransactionController.getTransactions(Int32 CustomerId) in D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice\Controllers\TransactionController.cs:line 56
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:30:48 getAccount Api called
+ERROR 09:30:50 Exception occured while getting Account details for account id: 3
+ERROR 09:30:50 One or more errors occurred. (No connection could be made because the target machine actively refused it.): In Trasaction Controller
+ERROR 09:30:50 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at Transactions_Microservice.Controllers.TransactionController.deposit(Object model) in D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice\Controllers\TransactionController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:30:50 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at Transactions_Microservice.Controllers.TransactionController.deposit(Object model) in D:\CognizantLearn\AsFTE\MFPE\Updated\Transactions Microservice\Controllers\TransactionController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:53:40 Application started. Press Ctrl+C to shut down.
+INFO  09:53:40 Application started. Press Ctrl+C to shut down.
+INFO  09:53:40 Hosting environment: Development
+INFO  09:53:40 Hosting environment: Development
+INFO  09:53:40 Content root path: E:\CTS\MFPE\Shayad Final\Updated\Transactions Microservice
+INFO  09:53:40 Content root path: E:\CTS\MFPE\Shayad Final\Updated\Transactions Microservice
+INFO  09:56:09 getAccount Api called
+INFO  09:56:09 deposit Api called
+INFO  09:56:09 Deposit done for Account Id: 5
+INFO  09:56:42 getAccount Api called
+INFO  09:56:42 deposit Api called
+INFO  09:56:42 Deposit done for Account Id: 5
+INFO  09:58:22 Transaction history returned for Customer Id: 3
+INFO  09:59:36 Transfer done from Account Id: 5to Account Id6
+INFO  10:01:12 withdraw Api called
+INFO  10:01:12 Withdraw done for Account Id: 5
+INFO  10:02:16 Transaction history returned for Customer Id: 3

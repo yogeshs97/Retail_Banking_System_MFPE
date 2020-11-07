@@ -1,0 +1,980 @@
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.deps.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.dev.json
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csprojAssemblyReference.cache
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfoInputs.cache
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfo.cs
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CopyComplete
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.genruntimeconfig.cache
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CoreCompileInputs.cache
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mansi\source\repos\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.deps.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.dev.json
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Moq.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\Customer\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csprojAssemblyReference.cache
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CoreCompileInputs.cache
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfoInputs.cache
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfo.cs
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CopyComplete
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+E:\Customer\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.genruntimeconfig.cache
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.deps.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.dev.json
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\testhost.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Moq.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+F:\Customer Microservice\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csprojAssemblyReference.cache
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CoreCompileInputs.cache
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfoInputs.cache
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfo.cs
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CopyComplete
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+F:\Customer Microservice\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.genruntimeconfig.cache
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.deps.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.dev.json
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\testhost.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Moq.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csprojAssemblyReference.cache
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CoreCompileInputs.cache
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfoInputs.cache
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfo.cs
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CopyComplete
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+F:\MFPE\CUSTOMER API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.genruntimeconfig.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.deps.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.runtimeconfig.dev.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\testhost.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Moq.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csprojAssemblyReference.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CoreCompileInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfoInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.AssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.csproj.CopyComplete
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\NUnitTestCustomerApi\obj\Debug\netcoreapp3.1\NUnitTestCustomerApi.genruntimeconfig.cache

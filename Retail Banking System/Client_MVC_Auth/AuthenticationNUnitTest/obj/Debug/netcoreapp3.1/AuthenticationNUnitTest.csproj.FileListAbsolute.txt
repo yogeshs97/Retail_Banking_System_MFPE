@@ -1,0 +1,402 @@
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Log4Net.config
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.exe
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.deps.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.runtimeconfig.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.runtimeconfig.dev.json
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\testhost.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.pdb
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csprojAssemblyReference.cache
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.AssemblyInfoInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.AssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csproj.CopyComplete
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.genruntimeconfig.cache
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.pdb
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Moq.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csproj.CoreCompileInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.dll
+D:\CognizantLearn\AsFTE\MFPE\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Log4Net.config
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.exe
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.deps.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.runtimeconfig.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.runtimeconfig.dev.json
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\AuthenticationNUnitTest.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\testhost.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Moq.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\bin\Debug\netcoreapp3.1\Authentication.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csprojAssemblyReference.cache
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csproj.CoreCompileInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.AssemblyInfoInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.AssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.csproj.CopyComplete
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.dll
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Client_MVC_Auth\AuthenticationNUnitTest\obj\Debug\netcoreapp3.1\AuthenticationNUnitTest.genruntimeconfig.cache

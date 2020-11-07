@@ -1,0 +1,161 @@
+INFO  03:44:57 Application started. Press Ctrl+C to shut down.
+INFO  03:44:57 Application started. Press Ctrl+C to shut down.
+INFO  03:44:57 Hosting environment: Development
+INFO  03:44:57 Hosting environment: Development
+INFO  03:44:57 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:44:57 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:45:17 Customer details has been successfully recieved.
+INFO  03:45:17 Customer details  has been successfully retrieved
+INFO  03:45:17 Customer's Details has been successfully returned
+INFO  03:46:44 Application started. Press Ctrl+C to shut down.
+INFO  03:46:44 Application started. Press Ctrl+C to shut down.
+INFO  03:46:44 Hosting environment: Development
+INFO  03:46:44 Hosting environment: Development
+INFO  03:46:44 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:46:44 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:46:55 Customer details has been successfully recieved.
+INFO  03:46:55 Customer details  has been successfully retrieved
+INFO  03:52:34 Application started. Press Ctrl+C to shut down.
+INFO  03:52:34 Application started. Press Ctrl+C to shut down.
+INFO  03:52:34 Hosting environment: Development
+INFO  03:52:34 Hosting environment: Development
+INFO  03:52:34 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:52:34 Content root path: F:\MFPE\CUSTOMER API\MFPE_CustomerApi
+INFO  03:52:45 Customer details has been successfully recieved.
+INFO  03:52:45 Customer details  has been successfully retrieved
+ERROR 03:52:45 No record found for the user Id :3
+INFO  06:14:30 Application started. Press Ctrl+C to shut down.
+INFO  06:14:30 Application started. Press Ctrl+C to shut down.
+INFO  06:14:30 Hosting environment: Development
+INFO  06:14:30 Hosting environment: Development
+INFO  06:14:30 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:14:30 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:15:09 Get Api Initiated
+INFO  06:15:09 Customer details is finally recieved.
+INFO  06:17:32 Customer details  has been successfully retrieved
+WARN  06:17:54 User already exist with Id :2
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:49:23 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:50:12 Get Api Initiated
+INFO  06:50:12 Customer details is finally recieved.
+INFO  06:51:01 Customer details  has been successfully retrieved
+INFO  06:51:01 Customer details has been successfully entered.
+INFO  06:51:01 Customer Id has been successfully created
+ERROR 06:51:03 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  06:51:41 Customer details  has been successfully retrieved
+INFO  06:51:41 Customer details has been successfully entered.
+INFO  06:51:41 Customer Id has been successfully created
+ERROR 06:51:43 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  06:51:48 Get Api Initiated
+INFO  06:51:48 Customer details is finally recieved.
+INFO  06:53:31 Application started. Press Ctrl+C to shut down.
+INFO  06:53:31 Application started. Press Ctrl+C to shut down.
+INFO  06:53:31 Hosting environment: Development
+INFO  06:53:31 Hosting environment: Development
+INFO  06:53:31 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:53:31 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  06:54:29 Get Api Initiated
+INFO  06:54:29 Customer details is finally recieved.
+INFO  06:55:33 Customer details  has been successfully retrieved
+INFO  06:55:43 Customer details has been successfully entered.
+INFO  06:55:46 Customer Id has been successfully created
+ERROR 06:59:46 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  07:00:35 Get Api Initiated
+INFO  07:00:35 Customer details is finally recieved.
+INFO  07:00:56 Get Api Initiated
+INFO  07:00:56 Customer details is finally recieved.
+INFO  07:02:04 Customer details  has been successfully retrieved
+INFO  07:02:04 Customer details has been successfully entered.
+INFO  07:02:04 Customer Id has been successfully created
+INFO  07:02:08 Customer has been successfully created
+INFO  07:02:16 Get Api Initiated
+INFO  07:02:16 Customer details is finally recieved.
+INFO  07:06:52 Get Api Initiated
+INFO  07:06:52 Customer details is finally recieved.
+INFO  07:35:40 Application started. Press Ctrl+C to shut down.
+INFO  07:35:40 Application started. Press Ctrl+C to shut down.
+INFO  07:35:40 Hosting environment: Development
+INFO  07:35:40 Hosting environment: Development
+INFO  07:35:40 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  07:35:40 Content root path: D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi
+INFO  09:27:58 Get Api Initiated
+INFO  09:27:58 Customer details is finally recieved.
+INFO  09:28:21 Get Api Initiated
+INFO  09:28:21 Customer details is finally recieved.
+INFO  09:28:40 Get Api Initiated
+INFO  09:28:40 Customer details is finally recieved.
+INFO  09:28:47 Get Api Initiated
+INFO  09:28:47 Customer details is finally recieved.
+INFO  09:28:54 Get Api Initiated
+INFO  09:28:54 Customer details is finally recieved.
+INFO  09:28:56 Customer details has been successfully recieved.
+INFO  09:28:56 Customer details  has been successfully retrieved
+INFO  09:28:56 Customer's Details has been successfully returned
+INFO  09:29:03 Get Api Initiated
+INFO  09:29:03 Customer details is finally recieved.
+INFO  09:29:39 Customer details  has been successfully retrieved
+INFO  09:29:39 Customer details has been successfully entered.
+INFO  09:29:39 Customer Id has been successfully created
+ERROR 09:29:42 Error occurred while calling post methodOne or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  09:29:51 Get Api Initiated
+INFO  09:29:51 Customer details is finally recieved.
+INFO  09:30:05 Customer details has been successfully recieved.
+INFO  09:30:05 Customer details  has been successfully retrieved
+INFO  09:30:05 Customer's Details has been successfully returned
+INFO  09:30:08 Get Api Initiated
+INFO  09:30:08 Customer details is finally recieved.
+INFO  09:30:17 Get Api Initiated
+INFO  09:30:17 Customer details is finally recieved.
+INFO  09:30:24 Get Api Initiated
+INFO  09:30:24 Customer details is finally recieved.
+INFO  09:51:43 Application started. Press Ctrl+C to shut down.
+INFO  09:51:43 Application started. Press Ctrl+C to shut down.
+INFO  09:51:43 Hosting environment: Development
+INFO  09:51:43 Hosting environment: Development
+INFO  09:51:43 Content root path: E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi
+INFO  09:51:43 Content root path: E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi
+INFO  09:54:36 Get Api Initiated
+INFO  09:54:36 Customer details is finally recieved.
+INFO  09:55:41 Customer details  has been successfully retrieved
+INFO  09:55:41 Customer details has been successfully entered.
+INFO  09:55:41 Customer Id has been successfully created
+INFO  09:55:44 Customer has been successfully created
+INFO  09:55:48 Get Api Initiated
+INFO  09:55:48 Customer details is finally recieved.
+INFO  09:56:13 Get Api Initiated
+INFO  09:56:13 Customer details is finally recieved.
+INFO  09:56:46 Get Api Initiated
+INFO  09:56:46 Customer details is finally recieved.
+INFO  09:58:13 Get Api Initiated
+INFO  09:58:13 Customer details is finally recieved.
+INFO  09:58:20 Get Api Initiated
+INFO  09:58:20 Customer details is finally recieved.
+INFO  09:58:31 Get Api Initiated
+INFO  09:58:31 Customer details is finally recieved.
+INFO  09:59:55 Get Api Initiated
+INFO  09:59:55 Customer details is finally recieved.
+INFO  10:00:34 Get Api Initiated
+INFO  10:00:34 Customer details is finally recieved.
+INFO  10:00:54 Get Api Initiated
+INFO  10:00:54 Customer details is finally recieved.
+INFO  10:01:16 Get Api Initiated
+INFO  10:01:16 Customer details is finally recieved.
+INFO  10:02:03 Get Api Initiated
+INFO  10:02:03 Customer details is finally recieved.
+INFO  10:02:13 Get Api Initiated
+INFO  10:02:13 Customer details is finally recieved.
+INFO  10:03:38 Customer details  has been successfully retrieved
+WARN  10:03:38 User already exist with Id :3
+INFO  10:04:19 Get Api Initiated
+INFO  10:04:19 Customer details is finally recieved.
+INFO  10:07:08 Get Api Initiated
+INFO  10:07:08 Customer details is finally recieved.
+INFO  10:07:15 Customer details has been successfully recieved.
+INFO  10:07:15 Customer details  has been successfully retrieved
+INFO  10:07:15 Customer's Details has been successfully returned
+INFO  10:07:36 Get Api Initiated
+INFO  10:07:36 Customer details is finally recieved.

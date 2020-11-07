@@ -1,0 +1,812 @@
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mansi\source\repos\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER_API_MFPE-master\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+F:\MFPE\CUSTOMER API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+D:\CognizantLearn\AsFTE\MFPE\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.config
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.exe
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.deps.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.runtimeconfig.dev.json
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csprojAssemblyReference.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CoreCompileInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfoInputs.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.AssemblyInfo.cs
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.RazorTargetAssemblyInfo.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.csproj.CopyComplete
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.Manifest.cache
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\MFPE_CustomerApi.StaticWebAssets.xml
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.dll
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.pdb
+E:\CTS\MFPE\Shayad Final\Updated\Customer API\MFPE_CustomerApi\obj\Debug\netcoreapp3.1\MFPE_CustomerApi.genruntimeconfig.cache
